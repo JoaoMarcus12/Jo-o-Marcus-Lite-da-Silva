@@ -22,19 +22,10 @@ Estou buscando evoluir principalmente nas áreas de Software Engineering, AI Eng
 
 ## Projetos
 
-### FinanceHub
-Sistema de gerenciamento financeiro desenvolvido com .NET.
-
-🔗 **Repositório:** https://github.com/gilmar-filho/estoque-materiais-construcao-django   
-
-### Projeto de Inteligência Artificial
-Projeto desenvolvido utilizando Python e tecnologias de Inteligência Artificial.
-
-🔗 **Repositório:** [LINK DO REPOSITÓRIO AQUI]
+https://github.com/gilmar-filho/estoque-materiais-construcao-django   https://github.com/SamuVanoni/NiadAgent
 
 ## Contato
 
-🔗 **LinkedIn:** [LINK DO SEU LINKEDIN AQUI]
+🔗 **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-marcus-leite-da-silva-9723442ba/
 
-🔗 **GitHub:** [LINK DO SEU GITHUB AQUI]
 
