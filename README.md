@@ -25,7 +25,7 @@ Estou buscando evoluir principalmente nas áreas de Software Engineering, AI Eng
 ### FinanceHub
 Sistema de gerenciamento financeiro desenvolvido com .NET.
 
-🔗 **Repositório:** [LINK DO REPOSITÓRIO AQUI]
+🔗 **Repositório:** https://github.com/gilmar-filho/estoque-materiais-construcao-django   
 
 ### Projeto de Inteligência Artificial
 Projeto desenvolvido utilizando Python e tecnologias de Inteligência Artificial.
